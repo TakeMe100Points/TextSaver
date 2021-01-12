@@ -1,0 +1,13 @@
+C:\Users\Hello\source\repos\TextSaver\TextSaver\bin\Debug\netcoreapp3.1\TextSaver.exe
+C:\Users\Hello\source\repos\TextSaver\TextSaver\bin\Debug\netcoreapp3.1\TextSaver.deps.json
+C:\Users\Hello\source\repos\TextSaver\TextSaver\bin\Debug\netcoreapp3.1\TextSaver.runtimeconfig.json
+C:\Users\Hello\source\repos\TextSaver\TextSaver\bin\Debug\netcoreapp3.1\TextSaver.runtimeconfig.dev.json
+C:\Users\Hello\source\repos\TextSaver\TextSaver\bin\Debug\netcoreapp3.1\TextSaver.dll
+C:\Users\Hello\source\repos\TextSaver\TextSaver\bin\Debug\netcoreapp3.1\TextSaver.pdb
+C:\Users\Hello\source\repos\TextSaver\TextSaver\obj\Debug\netcoreapp3.1\TextSaver.AssemblyInfoInputs.cache
+C:\Users\Hello\source\repos\TextSaver\TextSaver\obj\Debug\netcoreapp3.1\TextSaver.AssemblyInfo.cs
+C:\Users\Hello\source\repos\TextSaver\TextSaver\obj\Debug\netcoreapp3.1\TextSaver.csproj.CoreCompileInputs.cache
+C:\Users\Hello\source\repos\TextSaver\TextSaver\obj\Debug\netcoreapp3.1\TextSaver.dll
+C:\Users\Hello\source\repos\TextSaver\TextSaver\obj\Debug\netcoreapp3.1\TextSaver.pdb
+C:\Users\Hello\source\repos\TextSaver\TextSaver\obj\Debug\netcoreapp3.1\TextSaver.genruntimeconfig.cache
+C:\Users\Hello\source\repos\TextSaver\TextSaver\obj\Debug\netcoreapp3.1\TextSaver.csprojAssemblyReference.cache
